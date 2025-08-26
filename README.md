@@ -1,4 +1,4 @@
-# HR_Dashboard_Excel_PowerBI
+# hr-dashboard-excel-powerbi
 
 Employee Data Tracking: Department-wise headcount monitoring.
 
